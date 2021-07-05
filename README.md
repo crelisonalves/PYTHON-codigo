@@ -6,11 +6,14 @@ Um algorítimo é um conjunto de instruções para resolver um problema, é um c
   [Colab da Google](https://colab.research.google.com/)  
   Iremos usar a plataforma Colab da Google https://colab.research.google.com/
   Escolha no canto inferior direito um Novo Notebook
+    
   ~~~
   Iremos usar a plataforma Colab da Google https://colab.research.google.com/
   Escolha no canto inferior direito um Novo Notebook
   
   ~~~
+  Compilador Python in [Visual Studio Code](https://code.visualstudio.com/)
+  
 ## Escrevendo no terminal
 
   ~~~
@@ -23,3 +26,4 @@ Um algorítimo é um conjunto de instruções para resolver um problema, é um c
   ~~~
   Use o site 
   ~~~
+##### Dica de Vídeo https://www.youtube.com/embed/V7oUDL7E1g4 
