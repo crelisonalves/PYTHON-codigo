@@ -6,6 +6,7 @@ Um algorítimo é um conjunto de instruções para resolver um problema, é um c
   [Colab da Google](https://colab.research.google.com/)  
   Iremos usar a plataforma Colab da Google https://colab.research.google.com/
   Escolha no canto inferior direito um Novo Notebook
+  https://colab.research.google.com/drive/1JpLV4VBDu1dVaXGMr2EcFh0wTbkJrksb?usp=sharing#scrollTo=1gApdkqgLXKj
     
   ~~~
   Iremos usar a plataforma Colab da Google https://colab.research.google.com/
