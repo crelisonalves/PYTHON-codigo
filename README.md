@@ -21,8 +21,15 @@ Um algorítimo é um conjunto de instruções para resolver um problema, é um c
   **Olá mundo!**
   ~~~
   print("Olá mundo!")
+  print('Olá mundo!')
   ~~~
   
+ ## Comentário
+  **# Comentario**
+  ~~~
+  # Use cerquilha, hash, hashtag, jogo da velha antes do comentário
+  sendo assim o interpretador ou o compilador vai ignorar.
+  ~~~ 
   
 ## Declaração de variáveis
 
@@ -35,6 +42,26 @@ Lógicos | Representar sim ou não: bool (Booleano, verdadeiro e falso)
 
 
   ~~~
-  Use o site 
+print(type(5)) # O tipo do número 2 é int (número inteiro)
+print(type(2.5)) # O tipo do número 2.5 é float (número decimal)
+print(type(1.5+1.5j)) # O tipo do número 1 + 1j (j é o número imaginário) é complex
+print(type('O termo esta termoentre aspas\n')) # Sequencia de caracteres para armazenar texto
+print(type(True)) # tipo booleano para Verdadeiro (True) e Falso (False)
   ~~~
+>  <class 'int'>  
+>  
+> <class 'float'>   
+> 
+> <class 'complex'>   
+> 
+> <class 'str'>  
+> 
+> <class 'bool'> 
+
+Variável é um objeto que tem propriedade, atributo, ocupa um lugar na memória e pode ser atribuído um conteúdo
+~~~
+nome = "Crelison\n" # cria uma variável chamada nome e guarda uma string
+caractere = "c"    # cria uma variável chamada caracter e guarda uma string
+media = 10.5       #  cria uma variável chamada media e guarda um float
+~~~
 ##### Dica de Vídeo https://www.youtube.com/embed/V7oUDL7E1g4 
