@@ -13,16 +13,26 @@ Um algorítimo é um conjunto de instruções para resolver um problema, é um c
   Escolha no canto inferior direito um Novo Notebook
   
   ~~~
-  Compilador Python in [Visual Studio Code](https://code.visualstudio.com/)
+  Para instalar o **Python** na máquina pode ser usado o instaldor https://www.python.org/ . 
+  
+  Um compilador para o Python pode ser usado [Visual Studio Code](https://code.visualstudio.com/)
   
 ## Escrevendo no terminal
-
+  **Olá mundo!**
   ~~~
-  print("Olá mundo")
+  print("Olá mundo!")
   ~~~
   
   
 ## Declaração de variáveis
+
+
+Tipos  | Aplicação
+:---:  | :---
+Numéricos | Servem para representar números. int (interos), float (decimal)
+Tetuais | Representar texto: char (caractere), string (cadeira de caractere)
+Lógicos | Booleano, verdadeiro e falso
+
 
   ~~~
   Use o site 
