@@ -39,7 +39,7 @@ Um algorítimo é um conjunto de instruções para resolver um problema, é um c
 Tipos  | Aplicação
 :---:  | :---
 Numéricos | Servem para representar números. int (interos), float (decimal), complex (número complexo)
-Tetuais | Representar texto:  str (caractere e cadeira de caractere)
+Textuais | Representar texto:  str (caractere e cadeira de caractere)
 Lógicos | Representar sim ou não: bool (Booleano, verdadeiro e falso)
 
 
